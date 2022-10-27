@@ -1,0 +1,47 @@
+C:\Users\user\Desktop\CivilSalt_Kinyuy Kelly\calculator\calculator\bin\Release\calculator.exe.config
+C:\Users\user\Desktop\CivilSalt_Kinyuy Kelly\calculator\calculator\bin\Release\calculator.exe
+C:\Users\user\Desktop\CivilSalt_Kinyuy Kelly\calculator\calculator\bin\Release\calculator.pdb
+C:\Users\user\Desktop\CivilSalt_Kinyuy Kelly\calculator\calculator\obj\Release\calculator.About.resources
+C:\Users\user\Desktop\CivilSalt_Kinyuy Kelly\calculator\calculator\obj\Release\calculator.calculator.resources
+C:\Users\user\Desktop\CivilSalt_Kinyuy Kelly\calculator\calculator\obj\Release\calculator.Properties.Resources.resources
+C:\Users\user\Desktop\CivilSalt_Kinyuy Kelly\calculator\calculator\obj\Release\calculator.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\CivilSalt_Kinyuy Kelly\calculator\calculator\obj\Release\calculator.exe
+C:\Users\user\Desktop\CivilSalt_Kinyuy Kelly\calculator\calculator\obj\Release\calculator.pdb
+F:\CivilSalt_Kinyuy Kelly\Calculator\calculator\bin\Release\calculator.exe.config
+F:\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.exe
+F:\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.pdb
+F:\CivilSalt_Kinyuy Kelly\Calculator\calculator\bin\Release\calculator.exe
+F:\CivilSalt_Kinyuy Kelly\Calculator\calculator\bin\Release\calculator.pdb
+F:\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.csprojResolveAssemblyReference.cache
+F:\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.About.resources
+F:\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.calculator.resources
+F:\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.Properties.Resources.resources
+F:\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.csproj.GenerateResource.Cache
+C:\Users\KELLY\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\bin\Release\calculator.exe.config
+C:\Users\KELLY\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.exe
+C:\Users\KELLY\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.pdb
+C:\Users\KELLY\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.csprojResolveAssemblyReference.cache
+C:\Users\KELLY\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.About.resources
+C:\Users\KELLY\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.calculator.resources
+C:\Users\KELLY\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.Properties.Resources.resources
+C:\Users\KELLY\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.csproj.GenerateResource.Cache
+C:\Users\CARE I T\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\bin\Release\calculator.exe.config
+C:\Users\CARE I T\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.exe
+C:\Users\CARE I T\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.pdb
+C:\Users\CARE I T\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\bin\Release\calculator.exe
+C:\Users\CARE I T\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\bin\Release\calculator.pdb
+C:\Users\CARE I T\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.csprojResolveAssemblyReference.cache
+C:\Users\CARE I T\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.About.resources
+C:\Users\CARE I T\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.calculator.resources
+C:\Users\CARE I T\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.Properties.Resources.resources
+C:\Users\CARE I T\Desktop\CivilSalt_Kinyuy Kelly\Calculator\calculator\obj\Release\calculator.csproj.GenerateResource.Cache
+C:\Users\CARE I T\Documents\Calculator1\calculator\bin\Release\calculator.exe.config
+C:\Users\CARE I T\Documents\Calculator1\calculator\obj\Release\calculator.exe
+C:\Users\CARE I T\Documents\Calculator1\calculator\obj\Release\calculator.pdb
+C:\Users\CARE I T\Documents\Calculator1\calculator\bin\Release\calculator.exe
+C:\Users\CARE I T\Documents\Calculator1\calculator\bin\Release\calculator.pdb
+C:\Users\CARE I T\Documents\Calculator1\calculator\obj\Release\calculator.csprojResolveAssemblyReference.cache
+C:\Users\CARE I T\Documents\Calculator1\calculator\obj\Release\calculator.About.resources
+C:\Users\CARE I T\Documents\Calculator1\calculator\obj\Release\calculator.calculator.resources
+C:\Users\CARE I T\Documents\Calculator1\calculator\obj\Release\calculator.Properties.Resources.resources
+C:\Users\CARE I T\Documents\Calculator1\calculator\obj\Release\calculator.csproj.GenerateResource.Cache
